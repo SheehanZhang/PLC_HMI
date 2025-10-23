@@ -1,0 +1,732 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\plcconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\plcconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|c:\\users\\zhang xinqiang\\desktop\\supervisor\u7B80\u7EA6\u7248\\supervisor\\plcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\plcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\plcconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\plcconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\hiddentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\hiddentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\hiddentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\hiddentest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\editrecipeadressandlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\editrecipeadressandlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\editrecipeadressandlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\editrecipeadressandlabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\selectedrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\selectedrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\hiddentestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\hiddentestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\useradminitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\useradminitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\useradmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\myminimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\myminimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\mymessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\mymessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\mylamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\mylamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\myclosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\myclosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\loghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\globaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\globaluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\log.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\log.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\useradminitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\useradminitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\mymessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\mymessagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\mymessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\mymessagebox.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\useradminitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\useradminitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\hiddentestitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\hiddentestitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\hiddentestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\hiddentestitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\recipeitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\recipeitem.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\mylamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\mylamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\myminimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\myminimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\supervisor\\myclosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5447ED24-1AC2-46C9-BFE3-67E8098F5892}|Supervisor\\Supervisor.csproj|solutionrelative:supervisor\\myclosebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PLCConnect.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PLCConnect.cs",
+              "RelativeDocumentMoniker": "Supervisor\\PLCConnect.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PLCConnect.cs [Design]",
+              "RelativeToolTip": "Supervisor\\PLCConnect.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:52:41.944Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdmin.cs",
+              "RelativeDocumentMoniker": "Supervisor\\UserAdmin.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdmin.cs",
+              "RelativeToolTip": "Supervisor\\UserAdmin.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAjwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:02:01.113Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Login.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Login.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Login.cs",
+              "RelativeToolTip": "Supervisor\\Login.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:36:51.726Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HiddenTest.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTest.cs",
+              "RelativeDocumentMoniker": "Supervisor\\HiddenTest.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTest.cs",
+              "RelativeToolTip": "Supervisor\\HiddenTest.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:42:49.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PLCConnect.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PLCConnect.cs",
+              "RelativeDocumentMoniker": "Supervisor\\PLCConnect.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PLCConnect.cs",
+              "RelativeToolTip": "Supervisor\\PLCConnect.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:58:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Main.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.cs",
+              "RelativeToolTip": "Supervisor\\Main.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAjwAwBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:55:19.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.cs",
+              "RelativeToolTip": "Supervisor\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:29:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recipe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Recipe.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.cs [Design]",
+              "RelativeToolTip": "Supervisor\\Recipe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T06:15:01.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlcConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PlcConfig.cs",
+              "RelativeDocumentMoniker": "Supervisor\\PlcConfig.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\PlcConfig.cs",
+              "RelativeToolTip": "Supervisor\\PlcConfig.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T08:15:32.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HiddenTest.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTest.cs",
+              "RelativeDocumentMoniker": "Supervisor\\HiddenTest.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTest.cs [Design]",
+              "RelativeToolTip": "Supervisor\\HiddenTest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:39:38.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditRecipeAdressAndLabel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\EditRecipeAdressAndLabel.cs",
+              "RelativeDocumentMoniker": "Supervisor\\EditRecipeAdressAndLabel.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\EditRecipeAdressAndLabel.cs [Design]",
+              "RelativeToolTip": "Supervisor\\EditRecipeAdressAndLabel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T04:16:02.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditRecipeAdressAndLabel.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\EditRecipeAdressAndLabel.cs",
+              "RelativeDocumentMoniker": "Supervisor\\EditRecipeAdressAndLabel.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\EditRecipeAdressAndLabel.cs",
+              "RelativeToolTip": "Supervisor\\EditRecipeAdressAndLabel.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwEAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:01:30.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SelectedRecipe.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\SelectedRecipe.cs",
+              "RelativeDocumentMoniker": "Supervisor\\SelectedRecipe.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\SelectedRecipe.cs",
+              "RelativeToolTip": "Supervisor\\SelectedRecipe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:48:35.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HiddenTestItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\HiddenTestItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.cs [Design]",
+              "RelativeToolTip": "Supervisor\\HiddenTestItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:53:19.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Main.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.cs [Design]",
+              "RelativeToolTip": "Supervisor\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:19:23.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Login.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Login.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Login.cs [Design]",
+              "RelativeToolTip": "Supervisor\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T07:53:54.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserAdminItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdminItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\UserAdminItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\u5907\u4EFD - Copy\\Supervisor\\UserAdminItem.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor\u7B80\u7EA6\u7248\u5907\u4EFD - Copy\\Supervisor\\UserAdminItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:51:29.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdmin.cs",
+              "RelativeDocumentMoniker": "Supervisor\\UserAdmin.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdmin.cs [Design]",
+              "RelativeToolTip": "Supervisor\\UserAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:01:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "Supervisor\\SQLiteHelper.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\SQLiteHelper.cs",
+              "RelativeToolTip": "Supervisor\\SQLiteHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T02:16:01.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RecipeItem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\RecipeItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\RecipeItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\RecipeItem.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\RecipeItem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:00:51.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Program.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Program.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Program.cs",
+              "RelativeToolTip": "Supervisor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:18:20.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\packages.config",
+              "RelativeDocumentMoniker": "Supervisor\\packages.config",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\packages.config",
+              "RelativeToolTip": "Supervisor\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-07T08:18:00.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "myMinimizeButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myMinimizeButton.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myMinimizeButton.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\myMinimizeButton.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\myMinimizeButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:17:59.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "myCloseButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myCloseButton.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myCloseButton.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\myCloseButton.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\myCloseButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:59:45.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "myLamp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myLamp.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myLamp.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\myLamp.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\myLamp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:35:56.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MyMessageBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\MyMessageBox.cs",
+              "RelativeDocumentMoniker": "Supervisor\\MyMessageBox.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\MyMessageBox.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\MyMessageBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:13:33.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\LogHelper.cs",
+              "RelativeDocumentMoniker": "Supervisor\\LogHelper.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\LogHelper.cs",
+              "RelativeToolTip": "Supervisor\\LogHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T11:41:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Log.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Log.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Log.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor-new\\Supervisor\\Log.cs [Design]",
+              "RelativeToolTip": "..\\Supervisor-new\\Supervisor\\Log.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:51:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GlobalUser.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\GlobalUser.cs",
+              "RelativeDocumentMoniker": "Supervisor\\GlobalUser.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\GlobalUser.cs",
+              "RelativeToolTip": "Supervisor\\GlobalUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T10:21:22.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\App.config",
+              "RelativeDocumentMoniker": "Supervisor\\App.config",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\App.config",
+              "RelativeToolTip": "Supervisor\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-07T08:14:47.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Log.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Log.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Log.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Log.Designer.cs",
+              "RelativeToolTip": "Supervisor\\Log.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:17:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RecipeItem.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\RecipeItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\RecipeItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\RecipeItem.cs",
+              "RelativeToolTip": "Supervisor\\RecipeItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:08:08.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Log.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Log.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Log.cs",
+              "RelativeToolTip": "Supervisor\\Log.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAkwCIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T13:55:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserAdminItem.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdminItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\UserAdminItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdminItem.cs",
+              "RelativeToolTip": "Supervisor\\UserAdminItem.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAvwNIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:54:31.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MyMessageBox.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\MyMessageBox.cs",
+              "RelativeDocumentMoniker": "Supervisor\\MyMessageBox.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\MyMessageBox.cs",
+              "RelativeToolTip": "Supervisor\\MyMessageBox.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T02:17:19.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MyMessageBox.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\MyMessageBox.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\MyMessageBox.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\MyMessageBox.Designer.cs",
+              "RelativeToolTip": "Supervisor\\MyMessageBox.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T04:13:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "HiddenTestItem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\HiddenTestItem.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.Designer.cs",
+              "RelativeToolTip": "Supervisor\\HiddenTestItem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T03:05:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserAdminItem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdminItem.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\UserAdminItem.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\UserAdminItem.Designer.cs",
+              "RelativeToolTip": "Supervisor\\UserAdminItem.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T11:27:51.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Recipe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Recipe.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Recipe.Designer.cs",
+              "RelativeToolTip": "Supervisor\\Recipe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:22:24.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\Main.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\Main.Designer.cs",
+              "RelativeToolTip": "Supervisor\\Main.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAABRwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T01:02:11.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HiddenTestItem.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.cs",
+              "RelativeDocumentMoniker": "Supervisor\\HiddenTestItem.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\HiddenTestItem.cs",
+              "RelativeToolTip": "Supervisor\\HiddenTestItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T02:53:51.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "RecipeItem.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\RecipeItem.Designer.cs",
+              "RelativeDocumentMoniker": "Supervisor\\RecipeItem.Designer.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\RecipeItem.Designer.cs",
+              "RelativeToolTip": "Supervisor\\RecipeItem.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:22:09.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "myLamp.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myLamp.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myLamp.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myLamp.cs",
+              "RelativeToolTip": "Supervisor\\myLamp.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T03:36:07.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "myMinimizeButton.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myMinimizeButton.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myMinimizeButton.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myMinimizeButton.cs",
+              "RelativeToolTip": "Supervisor\\myMinimizeButton.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwFIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:12:43.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "myCloseButton.cs",
+              "DocumentMoniker": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myCloseButton.cs",
+              "RelativeDocumentMoniker": "Supervisor\\myCloseButton.cs",
+              "ToolTip": "C:\\Users\\Zhang Xinqiang\\Desktop\\Supervisor\u7B80\u7EA6\u7248\\Supervisor\\myCloseButton.cs",
+              "RelativeToolTip": "Supervisor\\myCloseButton.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwF4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:59:48.628Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

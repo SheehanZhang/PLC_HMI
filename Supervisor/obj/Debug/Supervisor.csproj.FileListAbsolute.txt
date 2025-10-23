@@ -1,0 +1,291 @@
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.DeviceStatusEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.DeviceStatusItemEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.PLCIO.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.PLCIOItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.DeviceStatusEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.DeviceStatusItemEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.PLCIO.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.PLCIOItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (6)\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\x86\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\x64\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLite-net.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLiteNetCipherExtensions.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLitePCLRaw.provider.sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLite-net.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\bin\Debug\SQLiteNetCipherExtensions.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.HiddenTest.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor\Supervisor\obj\Debug\Supervisor.HiddenTestItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\x86\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\x64\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLite-net.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLiteNetCipherExtensions.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLitePCLRaw.provider.sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLite-net.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\SQLiteNetCipherExtensions.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.DeviceStatusEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.DeviceStatusItemEditForm.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.HiddenTest.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.HiddenTestItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.PLCIO.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.PLCIOItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor - Copy (2)\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.HiddenTest.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.HiddenTestItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\x86\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\x64\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLite-net.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLiteNetCipherExtensions.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLitePCLRaw.provider.sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLite-net.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\SQLiteNetCipherExtensions.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\obj\Debug\Supervisor.MyMessageBox.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\itextsharp.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor-new\Supervisor\bin\Debug\itextsharp.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\x86\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\x64\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\itextsharp.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLite-net.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLiteNetCipherExtensions.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLitePCLRaw.provider.sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\itextsharp.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLite-net.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\SQLiteNetCipherExtensions.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.HiddenTest.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.HiddenTestItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.MyMessageBox.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版备份 - Copy\Supervisor\obj\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\x86\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\x64\sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\Supervisor.exe.config
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\Supervisor.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\EntityFramework.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\HslCommunication.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\itextsharp.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLite-net.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLiteNetCipherExtensions.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLitePCLRaw.batteries_sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLitePCLRaw.provider.sqlcipher.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\EntityFramework.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\HslCommunication.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\itextsharp.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLite-net.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\SQLiteNetCipherExtensions.pdb
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.csproj.AssemblyReference.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.EditRecipeAdressAndLabel.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.HiddenTest.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.HiddenTestItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Log.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Login.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Main.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.MyMessageBox.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.PLCConnect.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Properties.Resources.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Recipe.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.RecipeItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.UserAdmin.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.UserAdminItem.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.Login.en-US.resources
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.csproj.GenerateResource.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.csproj.CoreCompileInputs.cache
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\en-US\Supervisor.resources.dll
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.csproj.Up2Date
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.exe
+C:\Users\Zhang Xinqiang\Desktop\Supervisor简约版\Supervisor\obj\Debug\Supervisor.pdb
